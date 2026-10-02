@@ -1,0 +1,1 @@
+{"name":"stroemplan","version":"1.0.0","private":true,"scripts":{"start":"expo start","android":"expo run:android","ios":"expo run:ios"},"dependencies":{"@expo/vector-icons":"latest","@react-native-async-storage/async-storage":"latest","expo":"latest","expo-notifications":"latest","expo-status-bar":"latest","react":"latest","react-native":"latest"},"devDependencies":{}}

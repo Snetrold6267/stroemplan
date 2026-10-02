@@ -1,0 +1,1 @@
+{"name":"stroemplan-api","private":true,"type":"commonjs","scripts":{"start":"node index.js"},"dependencies":{"express":"^5.1.0"}}
