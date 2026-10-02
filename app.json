@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "StrømPlan",
-    "slug": "stroemplan",
+    "slug": "stroemplan-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "automatic",
@@ -18,7 +18,7 @@
     ],
     "extra": {
       "eas": {
-        "projectId": "ae4a8f4a-f6e4-43fc-8bed-8e66f4f"
+      "projectId": "ae4a8f4a-f6e4-43fc-8bed-8e66f4f3bf91"
       }
     }
   }
